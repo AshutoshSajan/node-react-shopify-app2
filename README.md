@@ -68,3 +68,7 @@ View the website at: http://localhost:3000
 
 - webpack.config.js
   - bundler for react application
+
+
+# jenkins setup
+https://applitools.com/blog/how-to-update-jenkins-build-status-in-github-pull-requests-step-by-step-tutorial/
