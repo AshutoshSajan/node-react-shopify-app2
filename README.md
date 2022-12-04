@@ -3,26 +3,26 @@ A simple boilerplate for creating full stack application in javascript using rea
 
 ## Quick Start
 
-  The quickest way to get started with this boilerplate is to fork it into your own repo.
-  Get into the root of the application
+The quickest way to get started with this boilerplate is to fork it into your own repo.
+Get into the root of the application
 
 ```bash
 cd react-node-boilerplate/
 ```
 
-  Install dependencies:
+Install dependencies:
 
 ```bash
 $ npm install
 ```
 
-  Start the server:
+Start the server:
 
 ```bash
 $ npm start
 ```
 
-  View the website at: http://localhost:3000
+View the website at: http://localhost:3000
 
 ## Folder structure
 - bin
@@ -46,26 +46,25 @@ $ npm start
       - wrapper for all routes in react
 
 - public
-    - contains static assets in express
+  - contains static assets in express
 
 - routes
-    - route handler for node application
+  - route handler for node application
 
 - views
-    - for express templates
+  - for express templates
 
 - .babelrc
-    - transpiler for react and ES6 codes
+  - transpiler for react and ES6 codes
 
 - .gitignore
-    - ignore node_modules and bundles
+  - ignore node_modules and bundles
   
 - app.js
-    - entry point for express application
+  - entry point for express application
 
 - package.json
-    - project metadata and dependencies list
+  - project metadata and dependencies list
 
 - webpack.config.js
-    - bundler for react application
-  
+  - bundler for react application
